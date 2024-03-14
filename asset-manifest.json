@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Webpage-TypeScript-Show-last-block-number-of-Ethereum-mainnet-Show-USDT-balance-of-provided-address/static/css/main.e6c13ad2.css",
+    "main.js": "/Webpage-TypeScript-Show-last-block-number-of-Ethereum-mainnet-Show-USDT-balance-of-provided-address/static/js/main.855e24fc.js",
+    "static/js/453.077d4aea.chunk.js": "/Webpage-TypeScript-Show-last-block-number-of-Ethereum-mainnet-Show-USDT-balance-of-provided-address/static/js/453.077d4aea.chunk.js",
+    "index.html": "/Webpage-TypeScript-Show-last-block-number-of-Ethereum-mainnet-Show-USDT-balance-of-provided-address/index.html",
+    "main.e6c13ad2.css.map": "/Webpage-TypeScript-Show-last-block-number-of-Ethereum-mainnet-Show-USDT-balance-of-provided-address/static/css/main.e6c13ad2.css.map",
+    "main.855e24fc.js.map": "/Webpage-TypeScript-Show-last-block-number-of-Ethereum-mainnet-Show-USDT-balance-of-provided-address/static/js/main.855e24fc.js.map",
+    "453.077d4aea.chunk.js.map": "/Webpage-TypeScript-Show-last-block-number-of-Ethereum-mainnet-Show-USDT-balance-of-provided-address/static/js/453.077d4aea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.855e24fc.js"
+  ]
+}
