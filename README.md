@@ -1,3 +1,8 @@
+# project features
+This project is a webpage written in TypeScript with React JS and we also use Ethers.js,
+when the project run it shows us an interface, then when we enter the address and click on Check USDT Balance button, it well Shows the last block number of Ethereum mainnet
+and it well Shows the USDT balance of a provided address.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
